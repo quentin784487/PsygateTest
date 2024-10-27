@@ -1,0 +1,14 @@
+C:\_systems\PsyBank\PsyBank.App\bin\Debug\net8.0\PsyBank.App.exe
+C:\_systems\PsyBank\PsyBank.App\bin\Debug\net8.0\PsyBank.App.deps.json
+C:\_systems\PsyBank\PsyBank.App\bin\Debug\net8.0\PsyBank.App.runtimeconfig.json
+C:\_systems\PsyBank\PsyBank.App\bin\Debug\net8.0\PsyBank.App.dll
+C:\_systems\PsyBank\PsyBank.App\bin\Debug\net8.0\PsyBank.App.pdb
+C:\_systems\PsyBank\PsyBank.App\obj\Debug\net8.0\PsyBank.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\_systems\PsyBank\PsyBank.App\obj\Debug\net8.0\PsyBank.App.AssemblyInfoInputs.cache
+C:\_systems\PsyBank\PsyBank.App\obj\Debug\net8.0\PsyBank.App.AssemblyInfo.cs
+C:\_systems\PsyBank\PsyBank.App\obj\Debug\net8.0\PsyBank.App.csproj.CoreCompileInputs.cache
+C:\_systems\PsyBank\PsyBank.App\obj\Debug\net8.0\PsyBank.App.dll
+C:\_systems\PsyBank\PsyBank.App\obj\Debug\net8.0\refint\PsyBank.App.dll
+C:\_systems\PsyBank\PsyBank.App\obj\Debug\net8.0\PsyBank.App.pdb
+C:\_systems\PsyBank\PsyBank.App\obj\Debug\net8.0\PsyBank.App.genruntimeconfig.cache
+C:\_systems\PsyBank\PsyBank.App\obj\Debug\net8.0\ref\PsyBank.App.dll
