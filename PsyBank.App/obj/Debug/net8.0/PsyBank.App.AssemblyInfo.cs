@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PsyBank.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f8a7dc3ee76e5749ebeac851dab231584d5cce0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PsyBank.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PsyBank.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

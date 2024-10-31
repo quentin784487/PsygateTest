@@ -1,4 +1,4 @@
-﻿namespace com.psybergate.assessment.dsnprg001.yournameandsurname
+﻿namespace PsyBank.App.Service.Contracts
 {
     public interface IAccountService
     {

@@ -1,4 +1,6 @@
-﻿namespace com.psybergate.assessment.dsnprg001.yournameandsurname
+﻿using PsyBank.App.Service.Contracts;
+
+namespace com.psybergate.assessment.dsnprg001.yournameandsurname
 {
     public class AccountService : IAccountService
     {

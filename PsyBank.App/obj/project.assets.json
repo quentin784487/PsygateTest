@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_systems\\PsyBank\\PsyBank.App\\PsyBank.App.csproj",
+      "projectUniqueName": "C:\\_systems\\PsygateTest\\PsyBank.App\\PsyBank.App.csproj",
       "projectName": "PsyBank.App",
-      "projectPath": "C:\\_systems\\PsyBank\\PsyBank.App\\PsyBank.App.csproj",
+      "projectPath": "C:\\_systems\\PsygateTest\\PsyBank.App\\PsyBank.App.csproj",
       "packagesPath": "C:\\Users\\Quentin\\.nuget\\packages\\",
-      "outputPath": "C:\\_systems\\PsyBank\\PsyBank.App\\obj\\",
+      "outputPath": "C:\\_systems\\PsygateTest\\PsyBank.App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Quentin\\AppData\\Roaming\\NuGet\\NuGet.Config",
